@@ -1,2 +1,2 @@
-# trybe-portfólio
+# Trybe Portfólio
 Meu portfólio pessoal 
